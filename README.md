@@ -10,5 +10,7 @@
 - React Hook Form
 - [Shadcn](https://ui.shadcn.com/)
 > npx shadcn-ui@latest init
+> Adicionado: Button, Sheet, Separator
 - [uploadthing](https://uploadthing.com/)
 > npm install uploadthing @uploadthing/react
+- [Clerk](https://clerk.com/)
